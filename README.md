@@ -1,5 +1,7 @@
 # Construction Project Controls & Performance Analysis
 
+![Construction Project Dashboard](https://github.com/Lavonia697/construction-project-controls-analysis/blob/main/dashboard/dashboard.png)
+
 ## Project Overview
 
 This project uses Microsoft Excel to analyse construction project tracking records, with a focus on budget performance, schedule performance, project status validation, and data quality.
