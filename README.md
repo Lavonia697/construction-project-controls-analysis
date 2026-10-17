@@ -53,7 +53,14 @@ The dashboard covers 20 projects using their latest selected tracking records:
 
 The results reflect the latest dated tracking records selected for analysis, not necessarily final project outcomes. Some cost information is missing, and status flags identify records for review rather than proving that the underlying project information is incorrect.
 
-A pair of records for one project appeared identical apart from the record identifier. This potential duplicate was investigated and handled in the analysis copy; the original raw data was retained for traceability.
+A pair of records for one project had the same latest update date and appeared identical apart from the Record_ID. I investigated the potential duplicate and excluded one record from the analysis copy to avoid double-counting, while preserving the original raw dataset for traceability.
+
+## Project Files
+- Completed Excel Analysis
+- Dashboard Screenshot
+- Data Cleaning Process
+- Analysis Methodology
+- Business Insights
 
 ## Project Deliverables
 
